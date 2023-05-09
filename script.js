@@ -35,3 +35,5 @@ ctitles[3].style.color="red"
 document.querySelector(".this").style.color="red"
 document.querySelector(".this").style.background="black"
 
+console.log(document.getElementsByTagName("a"))
+console.log(document.getElementsByTagName("div"))
